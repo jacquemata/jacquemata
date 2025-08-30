@@ -3,10 +3,10 @@
 
 <img width="28" height="28" alt="sub" src="https://github.com/user-attachments/assets/c674dccf-b90d-48c1-93ab-d5ff6c8d02b2" />  About me
 
-🎓 Mathematics ➜ Developer,
+🎓 Mathematician ➜ Developer/Data/AI user,
 🏥 Healthcare IT & Security,
 🧠 Curious by design,
-📚 Currently exploring: data viz, data mining, and AI‑assisted tooling.
+📚 Currently exploring: data viz & mining, app development, and AI.
 
 <p align="center"> Mission: build practical tools that make everyday workflows safer, faster, and friendlier. </p>
 
